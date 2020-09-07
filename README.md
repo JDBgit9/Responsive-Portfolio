@@ -1,2 +1,0 @@
-# Responsive-Portfolio
-Kitty Cat

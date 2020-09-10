@@ -15,6 +15,8 @@ I had my margins and floats fixed but they went back to not working and I still 
 I have been scouring the internet and I am not getting the information I am looking for.
 Changed the margins back to make the box size more accesible to smaller devices
 created a container around the nav bar not seeing the color diference
+Added a footer and attempted to center and ran into difficulty
+Time is running out so I'm going to have to turn this in as is
 
 
 ### conclusion

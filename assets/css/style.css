@@ -1,4 +1,4 @@
-.body body {
+.body {
   background-color: rgb(237, 250, 252);
 }
 h1 {
@@ -12,7 +12,7 @@ p {
   background-color: powderblue;
 }
 h1 {
-  color: blue;
+  color: teal;
 }
 p {
   color: rgb(8, 1, 1);
@@ -38,7 +38,7 @@ p {
   h1 {
     color: rgb(15, 15, 15);
     text-align: left;
-    font-size: 40px
+    font-size: 30px
   }
   
 img {
@@ -50,7 +50,7 @@ img {
   p {
     font-family: 'Helvetica';
     font-size: 20px;
-    border: 0px solid; rgb(245, 248, 248);
+    border: 0px;
     margin: 20px 20px 20px 20px;
   }
   

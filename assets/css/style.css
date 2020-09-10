@@ -1,8 +1,8 @@
 .body {
-  background-color: rgb(237, 250, 252);
+  background-image: url(../image/bg.png);
 }
 h1 {
-  color: rgb(230, 230, 240);
+  color: rgb(21, 213, 226);
 }
 p {
   color: rgb(14, 11, 11);
@@ -16,7 +16,7 @@ p {
 
 
 .wrapper { background: #ffffff;
-  
+
   margin: 0 auto;
 
 }
@@ -33,7 +33,9 @@ p {
   h1 {
     color: rgb(15, 15, 15);
     text-align: left;
-    font-size: 30px
+    font-size: 35px;
+    margin-left: auto;
+  
   }
   
 img {

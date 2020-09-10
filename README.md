@@ -13,6 +13,7 @@ added a float to the image to move around
 added a float to wrapper on CSS
 I had my margins and floats fixed but they went back to not working and I still have much to do
 I have been scouring the internet and I am not getting the information I am looking for.
+Changed the margins back to make the box size more accesible to smaller devices
 
 
 ### conclusion

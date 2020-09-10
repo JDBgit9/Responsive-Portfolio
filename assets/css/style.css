@@ -11,12 +11,12 @@ p {
 .header {
   background-color: rgb(251, 253, 253);
   box-sizing: border-box;
-  
+
 }
 
 
 .wrapper { background: #ffffff;
-  max-width 960px;
+  
   margin: 0 auto;
 
 }

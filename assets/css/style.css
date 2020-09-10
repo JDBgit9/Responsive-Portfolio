@@ -1,13 +1,63 @@
-body {
-    background-image: }
+.body body {
+  background-color: rgb(237, 250, 252);
+}
+h1 {
+  color: rgb(230, 230, 240);
+}
+p {
+  color: rgb(14, 11, 11);
+}
+
+.header {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: rgb(8, 1, 1);
+}
+
+.wrapper {
+
+  background: #ffffff;
+  max-width: 960px;
+  margin: o auto;
+
+}
+
+  
+.navbar {
+  box-sizing: content-box;
+  background-color: teal;
+  margin-top: auto;
+
+} 
 
 
+  h1 {
+    color: rgb(15, 15, 15);
+    text-align: left;
+    font-size: 40px
+  }
+  
+img {
+  float: left;
+  margin: 10px;
+  padding-left: 50px;
+}
 
+  p {
+    font-family: 'Helvetica';
+    font-size: 20px;
+    border: 0px solid; rgb(245, 248, 248);
+    margin: 20px 20px 20px 20px;
+  }
+  
+  
 
-
-
-
-.wrapper 
+  
+  
 
 
 

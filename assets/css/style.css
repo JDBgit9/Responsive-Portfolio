@@ -9,14 +9,15 @@ p {
 }
 
 .header {
-  background-color: powderblue;
-}
-h1 {
-  color: teal;
+  background-color: rgb(251, 253, 253);
+  box-sizing: border-box;
+
+h1 { color: black;
 }
 p {
   color: rgb(8, 1, 1);
 }
+
 
 .wrapper {
 

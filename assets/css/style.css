@@ -1,22 +1,24 @@
-.body {
-  background-image: url(../image/bush.png);
-}
-h1 {
-  color: rgb(21, 213, 226);
-}
-p {
-  color: rgb(14, 11, 11);
+
+body {
+  background-color: rgb(14, 13, 13);
 }
 
 .header {
-  background-color: rgb(251, 253, 253);
+  background-color: tomato;
   box-sizing: border-box;
 
 }
+.h1 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: medium;
+color: rgb(253, 252, 252);
+}
+p {
+  color: rgb(250, 245, 245);
+}
 
-
-.wrapper { background: #ffffff;
-
+.wrapper { 
+  background: #dba3a3;
   margin: 0 auto;
 
 }
@@ -24,16 +26,16 @@ p {
   
 .navbar {
   box-sizing: content-box;
-  background-color: teal;
+  background-color: tan;
   margin-top: auto;
 
 } 
 
 
   h1 {
-    color: rgb(15, 15, 15);
+    color: rgb(250, 246, 246);
     text-align: left;
-    font-size: 35px;
+    font-size: 30px;
     margin-left: auto;
   
   }
@@ -55,7 +57,45 @@ img {
     display: block;
     position: relative;
   } 
+.container-mt-4 {
+  background-color: teal;
+}
 
+/* css for contact html */
+
+/* Style inputs with type="text", select elements and textareas */
+/* input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  /* padding: 12px; /* Some padding */ 
+  /* border: 1px solid #ccc; /* Gray border */
+  /* border-radius: 4px; Rounded borders */
+  /* box-sizing: border-box; Make sure that padding and width stays in place */
+  /* margin-top: 6px;  Add a top margin  */
+  /* margin-bottom: 16px;  Bottom margin  */
+  /* resize: vertical Allow the user to vertically resize the textarea (not horizontally)
+}   */ 
+
+/* Style the submit button with a specific background color etc */
+/* input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+} */
+
+/* When moving the mouse over the submit button, add a darker green color */
+/* input[type=submit]:hover {
+  background-color: #45a049; */
+/* } */
+
+/* Add a background color and some padding around the form */
+/* .container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+} */
   
   
 

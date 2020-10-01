@@ -1,0 +1,26 @@
+body{
+    background-image: url("../Responsive-Portfolio/assets/image/black_mamba.png");
+}
+.card-body {
+    margin-bottom: 20px;
+
+}
+.card {
+    margin-bottom: 10px;
+}
+.card-text {
+    color: #212121;
+}
+
+.card-image-top {
+ margin-bottom: 10px;
+}
+      p           {
+    font-size: 5px;
+}
+
+.card-image {
+    margin-left: 10px;
+    width: 500PX;
+    margin-left: auto;
+}

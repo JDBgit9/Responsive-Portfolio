@@ -1,6 +1,6 @@
 
 body {
-  background-color: rgb(14, 13, 13);
+  background-image: url("../image/black_mamba.png");
 }
 
 .header {
@@ -8,10 +8,14 @@ body {
   box-sizing: border-box;
 
 }
-.h1 {
+h1 {
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: medium;
+font-size: large;
 color: rgb(253, 252, 252);
+}
+
+h3 {
+  color: white;
 }
 p {
   color: rgb(250, 245, 245);
@@ -26,20 +30,11 @@ p {
   
 .navbar {
   box-sizing: content-box;
-  background-color: tan;
+  background-color: #f3b174;
   margin-top: auto;
 
 } 
 
-
-  h1 {
-    color: rgb(250, 246, 246);
-    text-align: left;
-    font-size: 30px;
-    margin-left: auto;
-  
-  }
-  
 img {
   float: left;
   margin: 10px;
@@ -54,12 +49,13 @@ img {
   }
   
   footer {
-    display: block;
-    position: relative;
-  } 
+    display: flex;
+    position: absolute;
+    align-content: center;
+  /* } 
 .container-mt-4 {
   background-color: teal;
-}
+} */
 
 /* css for contact html */
 
@@ -95,50 +91,4 @@ img {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
-} */
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} 

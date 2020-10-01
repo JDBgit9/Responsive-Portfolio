@@ -26,7 +26,18 @@ body{
 }
 p {
     font-size: small;
+    color: #000;
 }
+.myCarousel {
+    
+}
+
+
+
+
+
+
+
 .footer {
     position: fixed;
     left: 0;

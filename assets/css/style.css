@@ -48,10 +48,15 @@ img {
     margin: 20px 20px 20px 20px;
   }
   
-  footer {
-    display: flex;
-    position: absolute;
-    align-content: center;
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f3b174;
+    color: white;
+    text-align: center;
+ }
   /* } 
 .container-mt-4 {
   background-color: teal;

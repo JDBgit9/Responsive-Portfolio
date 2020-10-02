@@ -1,13 +1,14 @@
-css for contact html 
-/* body {
+/* css for contact html  */
+.body {
     background-image: url("../Responsive-Portfolio/assets/image/black_mamba.png");
   }
   .navbar {
-    background-color: #f3b174;
+    background-color: #eee7e1;
   }
 h1 {
-    size: 10px; */
-/*  */
+    size: 10px;
+}
+
  /* Style inputs with type="text", select elements and textareas  */
 input[type=text], select, textarea {
   width: 100%;  
@@ -37,9 +38,9 @@ input[type=text], select, textarea {
 
 /* Add a background color and some padding around the form */
  .container {
-  border-radius: 5px;
-  background-color: #212121;
-  padding: 20px;
+  border-radius: 0px;
+  background-color: #ca782a;
+  padding: 10px;
 }
 
 .footer {

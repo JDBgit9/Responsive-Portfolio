@@ -2,11 +2,24 @@
 .body {
     background-image: url("../Responsive-Portfolio/assets/image/black_mamba.png");
   }
-  .navbar {
+  /* .navbar {
     background-color: #eee7e1;
+  } */
+  .navbar {
+    box-sizing: content-box;
+    background-color: #ca782a;
+    margin-top: auto;
+  
+  } 
+  .column-md-8 {
+    margin: 30px;
   }
 h1 {
-    size: 10px;
+    size: 4px;
+}
+h4 {
+  color: #eee7e1;
+  font-size: 30px;
 }
 
  /* Style inputs with type="text", select elements and textareas  */
@@ -37,11 +50,12 @@ input[type=text], select, textarea {
  } 
 
 /* Add a background color and some padding around the form */
- .container {
+ /* .container {
   border-radius: 0px;
   background-color: #ca782a;
   padding: 10px;
-}
+  margin-left: 30px;
+} */
 
 .footer {
   position: fixed;

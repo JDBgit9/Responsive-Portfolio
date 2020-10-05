@@ -21,7 +21,13 @@ h4 {
   color: #eee7e1;
   font-size: 30px;
 }
-
+text {
+color: azure;
+}
+fname {
+color: azure;
+}
+lname {}
  /* Style inputs with type="text", select elements and textareas  */
 input[type=text], select, textarea {
   width: 100%;  
@@ -31,7 +37,7 @@ input[type=text], select, textarea {
    box-sizing: border-box; 
    margin-top: 6px;  
    margin-bottom: 16px;  
-   resize: vertical 
+   resize: vertical; 
 }    
 
  /* Style the submit button with a specific background color etc  */

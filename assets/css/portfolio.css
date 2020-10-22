@@ -40,7 +40,9 @@ body{
       max-width: 100%;
     }
   } 
-  
+  a {
+    font-size: x-large;
+  }
 /* .card-body {
     margin-bottom: 20px;
 

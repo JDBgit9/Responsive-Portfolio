@@ -3,8 +3,11 @@ body{
 }
 .navbar {
     box-sizing: content-box;
-    background-color: #ca782a;
+    background-color: #fcf9f7;
     margin-top: auto;
+  }
+  nav-link {
+    color: azure;
   }
   .row {
     display: flex;
@@ -43,6 +46,12 @@ body{
   a {
     font-size: x-large;
   }
+  .h1 {
+    padding: 10px;
+  }
+  h2 {
+    color: azure;
+  }
 /* .card-body {
     margin-bottom: 20px;
 
@@ -77,7 +86,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #ca782a;
+    background-color: rgba(233, 30, 99, 0.1;
     color: white;
     text-align: center;
  }

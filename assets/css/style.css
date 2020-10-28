@@ -5,7 +5,7 @@ body {
 
 
 .header {
-  background-color: tomato;
+  background-color: rgba(244, 67, 54, 0.3);
   box-sizing: border-box;
 
 }
@@ -30,7 +30,7 @@ h3 {
   
 .navbar {
   box-sizing: content-box;
-  background-color: #ceab37;
+  background-color: rgba(244, 67, 54, 0.3);
   margin-top: auto;
 
 } 
@@ -56,7 +56,7 @@ img {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #ceab37;
+    background-color: rgba(233, 30, 99, 0.1);
     color: white;
     text-align: center;
  }

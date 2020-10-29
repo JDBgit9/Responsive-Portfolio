@@ -3,6 +3,7 @@ body {
   background-image: url("../image/stars.png");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 1200px;
 }
 
 

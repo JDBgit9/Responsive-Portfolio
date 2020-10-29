@@ -1,6 +1,8 @@
 /* css for contact html  */
 .body {
-    background-image: url("../Responsive-Portfolio/assets/image/black_mamba.png");
+    background-image: url("../image/stars.png");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   /* .navbar {
     background-color: #eee7e1;

@@ -1,7 +1,7 @@
 /* css for contact html  */
 .body {
     background-image: url("../image/stars.png");
-    background-repeat: no-repeat;
+    background-repeat: n;
     background-size: cover;
   }
   /* .navbar {
@@ -33,12 +33,12 @@ lname {}
  /* Style inputs with type="text", select elements and textareas  */
 input[type=text], select, textarea {
   width: 100%;  
-  padding: 12px;  
+  padding: 10px;  
    border: 1px solid #ccc;  
-   border-radius: 4px; 
+   border-radius: 10px; 
    box-sizing: border-box; 
-   margin-top: 6px;  
-   margin-bottom: 16px;  
+   margin-top: 20px;  
+   margin-bottom: 30px;  
    resize: vertical; 
 }    
 

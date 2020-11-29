@@ -14,14 +14,15 @@ body {
 }
 h1 {
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 35px;
-color: rgb(253, 252, 252);
-margin-left: 50px;
+font-size: 55px;
+color: rgb(255, 255, 255);
+margin-left: 5%;
 }
 
 h3 {
   color: #3F729B;
   font-size: 25px;
+  margin-left: 60px;
 }
 
 

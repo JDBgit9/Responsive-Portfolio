@@ -8,7 +8,7 @@ body {
 
 
 .header {
-  background-color: #007E33;
+  background-color: #3F729B;
   box-sizing: border-box;
 
 }
@@ -20,7 +20,7 @@ margin-left: 50px;
 }
 
 h3 {
-  color: rgb(126, 170, 228);
+  color: #3F729B;
   font-size: 25px;
 }
 
@@ -34,7 +34,7 @@ h3 {
   
 .navbar {
   box-sizing: content-box;
-  background-color: #007E33;
+  background-color: #3F729B;
   margin-top: auto;
 
 } 
@@ -61,7 +61,7 @@ img {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #007E33;
+    background-color: #3F729B;
     color: white;
     text-align: center;
  }

@@ -1,5 +1,5 @@
 body{
-    background-image: url("../image/stars.png");
+    background-image: url("../image/skylinewall.jpeg");
 }
 .navbar {
     box-sizing: content-box;
@@ -36,7 +36,7 @@ body{
     }
   }
   
-  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
   @media screen and (max-width: 600px) {
     .column {
       flex: 100%;
@@ -45,48 +45,21 @@ body{
   } 
   a {
     font-size: x-large;
+    color: #3F729B;
   }
   .h1 {
     padding: 10px;
   }
   h2 {
-    color: azure;
+    color: #3F729B;
   }
-/* .card-body {
-    margin-bottom: 20px;
-
-}
-.card {
-    margin-bottom: 10px;
-}
-.card-text {
-    color: #212121;
-}
-
-.card-image-top {
- margin-bottom: 10px;
-}
-      p           {
-    font-size: 5px;
-    color: #212121;
-}
-
-.card-image {
-    margin-left: 100px;
-    width: 500PX;
-    margin-left: auto;
-}
-p {
-    font-size: small;
-    color: #000;
-} */
 
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgba(233, 30, 99, 0.1;
+    background-color: rgba(233, 30, 99, 0.1);
     color: white;
     text-align: center;
  }

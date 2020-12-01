@@ -1,6 +1,6 @@
 /* css for contact html  */
 .body {
-    background-image: url("../image/stars.png");
+    background-image: url("../image/skylinewall.jpeg");
     background-repeat: n;
     background-size: cover;
   }
@@ -20,7 +20,7 @@ h1 {
     size: 4px;
 }
 h4 {
-  color: #eee7e1;
+  color: white;
   font-size: 30px;
 }
 text {
@@ -48,7 +48,7 @@ input[type=text], select, textarea {
 
  /* Style the submit button with a specific background color etc  */
  input[type=submit] {
-  background-color: #4CAF50;
+  background-color:#3F729B;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -58,7 +58,7 @@ input[type=text], select, textarea {
 
 /* When moving the mouse over the submit button, add a darker green color */
  input[type=submit]:hover {
-  background-color: #45a049; 
+  background-color: #3F729B; 
  } 
 
 /* Add a background color and some padding around the form */
@@ -69,12 +69,16 @@ input[type=text], select, textarea {
   margin-left: 30px;
 } */
 
+p {
+  color: white;
+}
+
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgba(233, 30, 99, 0.1;
+  background-color: rgba(233, 30, 99, 0.1);
   color: white;
   text-align: center;
 }
